@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #81de92;
+    background: linear-gradient(90deg,rgba(129, 222, 146, 1) 1%, rgba(75, 196, 119, 1) 61%, rgba(158, 235, 141, 1) 100%); color: #333;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
